@@ -1,5 +1,4 @@
 Apples
 Oranges
-Bananas
 Kiwi
 Grapes
